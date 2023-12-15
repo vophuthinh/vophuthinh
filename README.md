@@ -50,7 +50,9 @@
 <div align=center>
   <a> 
     <a href="https://github.com/vophuthinh"><img alt="vophuthinh" src="https://github-readme-stats.vercel.app/api?username=vophuthinh&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/vophuthinh"><img alt="vophuthinh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vophuthinh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/vophuthinh"><img alt="vophuthinh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vophuthinh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/vophuthinh"><img alt="vophuthinh" src ="https://github-readme-streak-stats.herokuapp.com/?user=vophuthinh&theme=radical&hide_border=false">
+    </a>
 </a>
 </div>
 <br>
