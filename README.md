@@ -59,20 +59,16 @@
 </a>
 </div>
 <br>
+<hr>
 
 ![Vo Phu Thinh Graph](https://github-readme-activity-graph.vercel.app/graph?username=vophuthinh&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=f8468f&area=true)
 <br>
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ![snake gif](https://github.com/vophuthinh/vophuthinh/blob/output/github-contribution-grid-snake-dark.svg)
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 
-# ![Skill](/assets/quote.png) Random Dev Quote
-
-<div align="center" >
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
 
 
