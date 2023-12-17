@@ -2,11 +2,6 @@
 <a href="#" target="_blank">
   <img src="assets/vophuthinh.svg" width="1200" alt="vophuthinh"/>
 </a>
-<br>
-<br>
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvophuthinh%2Fvophuthinh&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-</div>
 <!-- About Section -->
 
 # ![About Me](/assets/about.png) About Me
@@ -25,7 +20,9 @@
 <br>
 
 # ![Socials](/assets/socials.png) Socials
-
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvophuthinh%2Fvophuthinh&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+</div>
 <p align="center">
  <a href="#" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="vophuthinh" />
@@ -62,7 +59,6 @@
 </a>
 </div>
 <br>
-<hr>
 
 ![Vo Phu Thinh Graph](https://github-readme-activity-graph.vercel.app/graph?username=vophuthinh&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=f8468f&area=true)
 <br>
