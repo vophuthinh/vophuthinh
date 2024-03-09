@@ -61,12 +61,10 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
 ![Vo Phu Thinh Graph](https://github-readme-activity-graph.vercel.app/graph?username=vophuthinh&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=f8468f&area=true)
 
 <br>
 <hr>
-
 
 ![snake gif](https://github.com/vophuthinh/vophuthinh/blob/output/github-contribution-grid-snake-dark.svg)
 <br>
