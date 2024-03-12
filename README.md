@@ -47,24 +47,6 @@
 <br>
 
 # ![Skill](/assets/development-stats.png) Development Stats
-
-
-
-# ![Skill](/assets/stats.png) GitHub Stats
-
-<div align=center>
-   <a href="https://github.com/vophuthinh"><img alt="vophuthinh" src ="https://github-readme-streak-stats.herokuapp.com/?user=vophuthinh&theme=radical&border=7F3FBF&hide_border=false"></a>
-    <br>
-  <a href="https://github.com/vophuthinh">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vophuthinh&theme=radical" alt="Vo Phu Thinh GitHub Contribution"/>
-  </a>
-  <a> 
-    <a href="https://github.com/vophuthinh"><img alt="vophuthinh" src="https://github-readme-stats.vercel.app/api?username=vophuthinh&theme=radical&border_color=7F3FBF&hide_border=false&include_all_commits=false&count_private=false" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/vophuthinh"><img alt="vophuthinh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vophuthinh&theme=radical&border_color=7F3FBF&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="192px" width="49.5%"/>    </a>
-</a>
-</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -140,6 +122,22 @@ PHP                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 12/03/2024 14:12:40 UTC
 <!--END_SECTION:waka-->
+
+
+# ![Skill](/assets/stats.png) GitHub Stats
+
+<div align=center>
+   <a href="https://github.com/vophuthinh"><img alt="vophuthinh" src ="https://github-readme-streak-stats.herokuapp.com/?user=vophuthinh&theme=radical&border=7F3FBF&hide_border=false"></a>
+    <br>
+  <a href="https://github.com/vophuthinh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vophuthinh&theme=radical" alt="Vo Phu Thinh GitHub Contribution"/>
+  </a>
+  <a> 
+    <a href="https://github.com/vophuthinh"><img alt="vophuthinh" src="https://github-readme-stats.vercel.app/api?username=vophuthinh&theme=radical&border_color=7F3FBF&hide_border=false&include_all_commits=false&count_private=false" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/vophuthinh"><img alt="vophuthinh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vophuthinh&theme=radical&border_color=7F3FBF&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="192px" width="49.5%"/>    </a>
+</a>
+</div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ![Vo Phu Thinh Graph](https://github-readme-activity-graph.vercel.app/graph?username=vophuthinh&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=f8468f&area=true)
 
