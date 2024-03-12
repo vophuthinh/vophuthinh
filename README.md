@@ -15,9 +15,20 @@
  💬  Ask me about anything [here](https://web.facebook.com/vox.phus.thijnh/).
 
 </p>
+
 <br>
 <br>
 <br>
+<br>
+
+<div align="center">
+
+|**🌑 Today's Moon**|**🎧 Spotify Playing**|
+|:---:|:---:|
+|[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev) [![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2003-04-04&theme=basic)](https://moon-svg.minung.dev)|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31amdmx7x5ml5z242252aikk44pa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31amdmx7x5ml5z242252aikk44pa&redirect=true)
+
+</div>
+
 
 # ![Socials](/assets/socials.png) Socials
 <div align="center">
