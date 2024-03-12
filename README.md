@@ -50,13 +50,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 180.4 kB Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2024
+> 🏆 61 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,63 +64,21 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-🌆 Daytime                34 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
-🌃 Evening                17 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌙 Night                  28 commits          ████████░░░░░░░░░░░░░░░░░   32.94 % 
-```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   23 commits          ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-Tuesday                  18 commits          █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Wednesday                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Friday                   19 commits          ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Saturday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Sunday                   13 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
-Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-CSS                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Monday                   23 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.84 % 
+Tuesday                  22 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.72 % 
+Wednesday                4 commits           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.49 % 
+Thursday                 1 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.12 % 
+Friday                   19 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.35 % 
+Saturday                 7 commits           ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.87 % 
+Sunday                   13 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.61 % 
 ```
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/vophuthinh/vophuthinh/main/assets/bar_graph.png)
-
-
- Last Updated on 12/03/2024 14:12:40 UTC
+ Last Updated on 12/03/2024 14:31:11 UTC
 <!--END_SECTION:waka-->
 
 
