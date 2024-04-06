@@ -23,13 +23,6 @@
 <br>
 <br>
 
-<div align="center">
-
-|**🌑 Today's Moon**|**💡 Dev Quote**|
-|:---:|:---:|
-|[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev) [![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2003-04-04&theme=basic)](https://moon-svg.minung.dev)|[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 
 # ![Socials](/assets/socials.png) Socials
