@@ -9,10 +9,10 @@
 <p>
  <img align="right" width="280" height="250" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" alt="Coding gif" />
   
- ✌️  I enjoy programming and sharing knowledge. <br/><br/>
- ❤️  I love writing code and learning new technologies.<br/><br/>
- 📧  Reach me anytime: vophuthinhcm@gmail.com.<br/><br/>
- 💬  Ask me about anything [here](https://web.facebook.com/vox.phus.thijnh/).
+ ✌️  I'm passionate about programming and love sharing knowledge. <br/><br/>
+ ❤️  Writing code and exploring new technologies brings me joy.<br/><br/>
+ 📧  Feel free to reach out to me anytime at vophuthinhcm@gmail.com.<br/><br/>
+ 💬  Ask me anything [here](https://web.facebook.com/vox.phus.thijnh/), I'm here to help!.
 
 </p>
 
