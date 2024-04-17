@@ -2,6 +2,7 @@
 <a href="#" target="_blank">
   <img src="assets/vophuthinh.svg" width="1200" alt="vophuthinh"/>
 </a>
+
 <!-- About Section -->
 
 # ![About Me](/assets/about.png) About Me
@@ -9,7 +10,7 @@
 <p>
  <img align="right" width="280" height="250" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" alt="Coding gif" />
   
- ✌️  I'm passionate about programming and love sharing knowledge. <br/><br/>
+ ✌️  I'm passionate about programming and love sharing knowledge.<br/><br/>
  ❤️  Writing code and exploring new technologies brings me joy.<br/><br/>
  📧  Feel free to reach out to me anytime at vophuthinhcm@gmail.com.<br/><br/>
  💬  Ask me anything [here](https://web.facebook.com/vox.phus.thijnh/), I'm here to help!.
@@ -19,11 +20,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
-
 
 # ![Socials](/assets/socials.png) Socials
 <div align="center">
