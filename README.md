@@ -50,15 +50,13 @@
 
 # ![Skill](/assets/development-stats.png) Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 112 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,7 +86,7 @@ Sunday                   18 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 31/05/2024 18:36:53 UTC
+ Last Updated on 01/06/2024 18:35:56 UTC
 <!--END_SECTION:waka-->
 
 
