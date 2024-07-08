@@ -26,7 +26,7 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvophuthinh%2Fvophuthinh&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
 </div>
 <p align="center">
- <a href="#" target="blank">
+ <a href="https://vophuthinh.name.vn/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="vophuthinh" />
  </a>
  <a href="https://linkedin.com/in/vophuthinh" target="_blank">
