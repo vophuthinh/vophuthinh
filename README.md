@@ -50,6 +50,8 @@
 
 # ![Skill](/assets/development-stats.png) Development Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2027%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -84,7 +86,7 @@ Sunday                   21 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 24/07/2024 18:41:14 UTC
+ Last Updated on 25/07/2024 18:37:21 UTC
 <!--END_SECTION:waka-->
 
 
