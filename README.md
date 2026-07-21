@@ -69,7 +69,7 @@
 
 # ![Skill](/assets/development-stats.png) Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.88%20million%20lines%20of%20code-blue?style=flat)
 
@@ -77,7 +77,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 161 Contributions in the Year 2026
+> 🏆 162 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,8 +85,29 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 20/07/2026 20:06:05 UTC
+```text
+🌞 Morning                29 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.90 % 
+🌆 Daytime                123 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.73 % 
+🌃 Evening                73 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.39 % 
+🌙 Night                  101 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.98 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   65 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.94 % 
+Tuesday                  61 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.71 % 
+Wednesday                27 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.28 % 
+Thursday                 55 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.87 % 
+Friday                   40 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.27 % 
+Saturday                 34 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.43 % 
+Sunday                   44 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.50 % 
+```
+
+
+
+ Last Updated on 21/07/2026 19:59:17 UTC
 <!--END_SECTION:waka-->
 
 
