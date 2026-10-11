@@ -69,9 +69,9 @@
 
 # ![Skill](/assets/development-stats.png) Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C218%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C218%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-604%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-604%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.30%20million%20lines%20of%20code-blue?style=flat)
 
@@ -111,15 +111,15 @@ Sunday                   165 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 56 mins (94.0%)
+⏱ AI Coding Time: 7 hrs 45 mins (90.6%)
 
-✍️ 11,937 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 11,937 lines written by AI, 239 lines written by hand (98.04% AI-written)
 
-🔤 11,819,884 Input Tokens, 1,523,004 Output Tokens
+🔤 10,408,779 Input Tokens, 1,402,521 Output Tokens
 
-💵 $100.07 Estimated AI Cost This Week
+💵 $89.02 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 216 AI Prompts
+🧠 36 AI Sessions, 192 AI Prompts
 
 Gemini                   11,080 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   88.00 % 
 Sonnet                   1,511 lines         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.00 % 
@@ -128,14 +128,14 @@ Antigravity-Ide          0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Claude-Code              0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 2,710 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+🤖 AI-Driven — 98.04% of written lines came from AI
+📚 Verbose Prompter — average 2,859 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.35% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/10/2026 21:55:59 UTC
+ Last Updated on 11/10/2026 22:15:53 UTC
 <!--END_SECTION:waka-->
 
 
